@@ -38,12 +38,6 @@
 
 ---
 
-### 📜 Certifications & Internships  
-- 🏅 **AI-ML Virtual Internship** – AICTE EduSkills (2025)  
-- 🏅 **Generative AI Career Essentials** – Microsoft & LinkedIn (2024)  
-- 🏅 **Machine Learning with Python** – IBM (2024)  
-- 🏅 **JavaScript Certification** – Infosys Springboard (2024)  
-- 🎤 **TEDxLNCT Bhopal Participation** (2025)  
 
 ---
 
@@ -57,7 +51,7 @@
 
 ### 🏆 Achievements  
 - 🥇 **1st Prize** – Techno Cultural Fest (LNUniverse)  
-- 🏏 Winner – College Cricket Tournament  
+- 🏏 Winner – College Cricket Tournament ( Leading roal as a captain)  
 
 ---
 
