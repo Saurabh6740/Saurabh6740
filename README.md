@@ -60,6 +60,9 @@
 - ⚽ Playing **Cricket & Football**  
 
 ---
+## 🏆 Competitive Programming  
+- [LeetCode Profile](https://leetcode.com/u/oDcxJs6p08/)
+
 
 ### 📫 Connect With Me  
 <p align="left">
