@@ -43,8 +43,7 @@
 
 ### 🚀 Projects  
 - 🏠 **House Price Prediction** – ML model to predict property prices  
-- 🌐 **Portfolio Website** – Personal site showcasing skills & work  
-- 🎥 **YouTube Clone** – Front-end project using HTML, CSS, JS  
+- 🌐 **Portfolio Website** – Personal site showcasing skills & work   
 - 🏦 **ATM & Bank Management System** – C++ project simulating banking operations  
 
 ---
@@ -61,7 +60,10 @@
 
 ---
 ## 🏆 Competitive Programming  
-- [LeetCode Profile](https://leetcode.com/u/oDcxJs6p08/)
+[![LeetCode Contest](https://leetcard.jacoblin.cool/oDcxJs6p08?theme=dark&ext=contest)](https://leetcode.com/u/oDcxJs6p08/)
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" width="200">
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" width="200">
+
 
 
 ### 📫 Connect With Me  
