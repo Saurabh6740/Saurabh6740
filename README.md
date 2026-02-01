@@ -61,8 +61,9 @@
 ---
 ## 🏆 Competitive Programming  
 [![LeetCode Contest](https://leetcard.jacoblin.cool/oDcxJs6p08?theme=dark&ext=contest)](https://leetcode.com/u/oDcxJs6p08/)
-<img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" width="200">
-<img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" width="200">
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" width="150">
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" width="150">
+<img src="https://assets.leetcode.com/static_assets/marketing/1.gif" alt="LeetCode Badge" width="150">
 
 
 
