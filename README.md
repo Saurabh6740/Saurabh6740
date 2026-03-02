@@ -22,7 +22,7 @@
 
 #### 📚 Libraries & Frameworks  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres" />
   <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
