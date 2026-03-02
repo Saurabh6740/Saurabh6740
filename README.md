@@ -17,7 +17,7 @@
 
 #### 💻 Programming Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,sql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,sql,react" />
 </p>
 
 #### 📚 Libraries & Frameworks  
@@ -36,17 +36,7 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 </p>
 
----
 
-
----
-
-### 🚀 Projects  
-- 🏠 **House Price Prediction** – ML model to predict property prices  
-- 🌐 **Portfolio Website** – Personal site showcasing skills & work   
-- 🏦 **ATM & Bank Management System** – C++ project simulating banking operations  
-
----
 
 ### 🏆 Achievements  
 - 🥇 **1st Prize** – Techno Cultural Fest (LNUniverse)  
@@ -64,7 +54,12 @@
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" width="150">
 <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" width="150">
 <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" alt="LeetCode Badge" width="150">
-
+<img src="https://assets.leetcode.com/static_assets/others/50.gif" 
+     alt="LeetCode Badge" 
+     width="150">
+     <img src= "https://assets.leetcode.com/static_assets/marketing/2.gif" 
+     alt="LeetCode Badge" 
+     width="150">
 
 
 ### 📫 Connect With Me  
