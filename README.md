@@ -54,13 +54,9 @@
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" width="150">
 <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" width="150">
 <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" alt="LeetCode Badge" width="150">
-<img src="https://assets.leetcode.com/static_assets/others/50.gif" 
-     alt="LeetCode Badge" 
-     width="150">
-     <img src= "https://assets.leetcode.com/static_assets/marketing/2.gif" 
-     alt="LeetCode Badge" 
-     width="150">
-
+<img src="https://assets.leetcode.com/static_assets/others/50.gif"  alt="LeetCode Badge"  width="150">
+<img src= "https://assets.leetcode.com/static_assets/marketing/2.gif"  alt="LeetCode Badge" width="150">
+<img src="https://assets.leetcode.com/static_assets/others/100.gif" alt="LeetCode Badge" width="150"> 
 
 ### 📫 Connect With Me  
 <p align="left">
