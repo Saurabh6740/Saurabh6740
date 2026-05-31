@@ -65,7 +65,9 @@
   <a href="https://saurabhportfolio1911.netlify.app" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://github.com/Saurabh6740" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
+<a href="https://www.kaggle.com/saurabhkumar11621" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48" height="48" />
+</a>
 
 ---
 
