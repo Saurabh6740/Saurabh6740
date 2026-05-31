@@ -7,9 +7,10 @@
 
 ### 👨‍🎓 About Me  
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** at LNCT Bhopal (2023–2027)  
-- 💻 Skilled in **C, C++, Python, DSA, Web Development, and Machine Learning**  
-- 🌱 Currently learning **Kaggle & Deep Learning**  
-- 🚀 Always curious to explore **new technologies** and work on impactful projects  
+- 💻 Skilled in **C, C++, Python, DSA, Full Stack Development, and Machine Learning**  
+- 🌱 Currently learning **Kaggle & Deep Learning**
+- 🚀 Continuously improving problem-solving skills through DSA and competitive programming 
+- 📚 Always curious to explore **new technologies** and work on impactful projects  
 
 ---
 
