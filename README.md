@@ -1,75 +1,220 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<h3 align="center">A passionate Backend & AI/ML Developer from India</h3>
+<h3 align="center">Backend Developer | AI/ML Enthusiast | B.Tech AIML</h3>
 
----
-
-### 👨‍🎓 About Me  
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** at LNCT Bhopal (2023–2027)  
-- 💻 Skilled in **C, C++, Python, DSA, Full Stack Development, and Machine Learning**  
-- 🌱 Currently learning **Kaggle & Deep Learning**
-- 🚀 Continuously improving problem-solving skills through DSA and competitive programming 
-- 📚 Always curious to explore **new technologies** and work on impactful projects  
-
----
-
-### 🔧 Skills & Tools  
-
-#### 💻 Programming Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,sql,react" />
-</p>
-
-#### 📚 Libraries & Frameworks  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres" />
-  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/matplotlib-lightblue?style=for-the-badge" />
-</p>
-
-#### ⚒️ Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,mysql" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+<p align="center">
+  <a href="https://github.com/Saurabh6740">
+    <img src="https://komarev.com/ghpvc/?username=Saurabh6740&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-### 🏆 Achievements  
-- 🥇 **1st Prize** – Techno Cultural Fest (LNUniverse)  
-- 🏏 Winner – College Cricket Tournament ( Leading roal as a captain)  
+## 👨‍💻 About Me
+
+* 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** at **LNCT Group of College, Bhopal (2023–2027)**
+* 💻 Focused on **Backend Development, Spring Boot Microservices, REST APIs, and AI/ML**
+* 🚀 Building scalable applications using **Spring Boot, Spring Cloud, React, Kafka, MongoDB, and PostgreSQL**
+* 🔐 Experienced with **Keycloak, OAuth2, JWT, and role-based authentication**
+* 🤖 Interested in **Machine Learning, Explainable AI (XAI), and intelligent applications**
+* 🧩 Solved **300+ problems on LeetCode** and **100+ problems on GeeksforGeeks**
+* 🌱 Currently gaining hands-on experience through **Infosys Springboard Virtual Internship 7.0**
 
 ---
 
-### ⚡ Hobbies  
-- 📚 Exploring **new technologies & innovations**  
-- ⚽ Playing **Cricket & Football**  
+## 🛠️ Tech Stack
 
----
-## 🏆 Competitive Programming  
-[![LeetCode Contest](https://leetcard.jacoblin.cool/oDcxJs6p08?theme=dark&ext=contest)](https://leetcode.com/u/oDcxJs6p08/)
-<img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" width="150">
-<img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" width="150">
-<img src="https://assets.leetcode.com/static_assets/marketing/1.gif" alt="LeetCode Badge" width="150">
-<img src="https://assets.leetcode.com/static_assets/others/50.gif"  alt="LeetCode Badge"  width="150">
-<img src= "https://assets.leetcode.com/static_assets/marketing/2.gif"  alt="LeetCode Badge" width="150">
-<img src="https://assets.leetcode.com/static_assets/others/100.gif" alt="LeetCode Badge" width="150"> 
+### 💻 Programming Languages
 
-### 📫 Connect With Me  
 <p align="left">
-  <a href="mailto:saurabhkumar963132@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://saurabhportfolio1911.netlify.app" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://github.com/Saurabh6740" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.kaggle.com/saurabhkumar11621" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,sql" />
+</p>
+
+### ⚙️ Backend & Microservices
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,maven,nodejs" />
+</p>
+
+**Spring Boot • Spring Cloud • Microservices • REST APIs • Maven**
+
+### 🌐 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+**React.js • HTML • CSS • JavaScript • Recharts • Chart.js**
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### 🤖 Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 🔐 Security & Messaging
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kafka" />
+</p>
+
+**Keycloak • OAuth2 • JWT • Apache Kafka**
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Healthcare Management Platform for Clinical Operations
+
+A scalable healthcare platform built using **Spring Boot Microservices** for clinical operations.
+
+**Key Features:**
+
+* API Gateway and service discovery
+* Keycloak-based OAuth2 authentication
+* Role-based access control
+* Python ML model for patient risk prediction
+* Explainable AI (XAI) service for clinical insights
+* Apache Kafka for real-time patient vital streaming
+* HL7 FHIR-based healthcare interoperability
+* React dashboard for live vital analytics
+* Care-plan tracking
+* Automated PDF report generation
+
+**Tech Stack:**
+`Java` `Spring Boot` `Spring Cloud` `React` `Python` `Kafka` `MongoDB` `Keycloak`
+
+🔗 **[GitHub Repository](#)**
+
+---
+
+### 🌱 EcoTrack AI — Carbon Footprint Awareness Platform
+
+A responsive web application designed to help users calculate, track, and visualize their carbon footprint.
+
+**Key Features:**
+
+* Carbon footprint calculation
+* Interactive analytics dashboards
+* Carbon neutrality simulator
+* AI-powered sustainability recommendations
+* Data visualization using Chart.js
+
+**Tech Stack:**
+`React.js` `Tailwind CSS` `JavaScript` `Chart.js`
+
+🔗 **[GitHub Repository](https://github.com/Saurabh6740/ecotrack-ai)**
+🌐 **[Live Demo](https://ecotrack-ai-dusky.vercel.app/)**
+
+---
+
+### 🏏 IPL Win Predictor
+
+A machine learning classification project that predicts IPL match winners using historical match data.
+
+**Key Features:**
+
+* Data preprocessing
+* Feature engineering
+* Exploratory data analysis
+* Logistic Regression / Random Forest
+* Confusion matrix and accuracy evaluation
+* Achieved approximately **82% prediction accuracy**
+
+**Tech Stack:**
+`Python` `Pandas` `Matplotlib` `Scikit-learn`
+
+---
+
+## 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/oDcxJs6p08/">
+    <img src="https://leetcard.jacoblin.cool/oDcxJs6p08?theme=dark&ext=contest" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+* 🟡 **300+ LeetCode Problems Solved**
+* 🟢 **100+ GeeksforGeeks Problems Solved**
+* 🧠 Strong focus on **DSA, Algorithms, OOPs, and Problem Solving**
+
+---
+
+## 🏅 Achievements
+
+* 🥇 **1st Prize** — Techno Cultural Fest, LNUniverse
+* 💻 **300+ DSA Problems** solved on LeetCode
+* 💻 **100+ Problems** solved on GeeksforGeeks
+
+---
+
+## 🎓 Internship
+
+### Infosys Springboard Virtual Internship 7.0
+
+Currently undergoing hands-on training in:
+
+`Spring Boot` `REST APIs` `Spring Data JPA` `Maven` `Backend Development`
+
+---
+
+## 📜 Certifications
+
+* 🎖️ **Oracle University — DevOps Certification**
+* 🤖 **AICTE EduSkills — AI-ML Virtual Internship**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:saurabhkumar963132@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
+<a href="https://github.com/Saurabh6740">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="https://www.kaggle.com/saurabhkumar11621">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48"/>
+</a>
+
+<a href="https://saurabhportfolio1911.netlify.app">
+<img src="https://skillicons.dev/icons?i=react" width="48"/>
+</a>
+
+</p>
+
 ---
 
-⭐️ From [Saurabh Kumar](https://github.com/Saurabh6740)
+<p align="center">
+  <b>🚀 Building • Learning • Solving • Improving</b>
+</p>
+
+<p align="center">
+  ⭐ From <a href="https://github.com/Saurabh6740">Saurabh Kumar</a>
+</p>
+
 
