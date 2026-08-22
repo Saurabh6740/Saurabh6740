@@ -1,25 +1,47 @@
-<!-- Profile README -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<h3 align="center">Backend Developer | AI/ML Enthusiast | B.Tech AIML</h3>
+# 👋 Hi, I'm Saurabh Kumar
 
-<p align="center">
-  <a href="https://github.com/Saurabh6740">
-    <img src="https://komarev.com/ghpvc/?username=Saurabh6740&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+### 🚀 Backend Developer | AI/ML Enthusiast | Problem Solver
+
+<p>
+  <i>Building scalable backend systems and intelligent applications.</i>
 </p>
+
+<br/>
+
+<a href="https://github.com/Saurabh6740">
+  <img src="https://img.shields.io/badge/GitHub-Saurabh6740-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://leetcode.com/u/oDcxJs6p08/">
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/saurabh-banka-cse-aiml/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/saurabhkumar11621">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-* 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** at **LNCT Group of College, Bhopal (2023–2027)**
-* 💻 Focused on **Backend Development, Spring Boot Microservices, REST APIs, and AI/ML**
-* 🚀 Building scalable applications using **Spring Boot, Spring Cloud, React, Kafka, MongoDB, and PostgreSQL**
-* 🔐 Experienced with **Keycloak, OAuth2, JWT, and role-based authentication**
-* 🤖 Interested in **Machine Learning, Explainable AI (XAI), and intelligent applications**
-* 🧩 Solved **300+ problems on LeetCode** and **100+ problems on GeeksforGeeks**
-* 🌱 Currently gaining hands-on experience through **Infosys Springboard Virtual Internship 7.0**
+🎓 **B.Tech — Artificial Intelligence & Machine Learning**
+🏫 **LNCT Group of College, Bhopal | 2023–2027**
+📊 **CGPA: 7.68**
+
+I'm a developer focused on building **backend systems, microservices, REST APIs, and AI-powered applications**.
+
+* 🔥 Strong interest in **Spring Boot & Microservices**
+* 🤖 Building applications with **Machine Learning & Explainable AI**
+* ⚡ Working with **Apache Kafka for real-time data streaming**
+* 🔐 Implementing **Keycloak, OAuth2 & JWT authentication**
+* 🧠 **300+ LeetCode** & **100+ GeeksforGeeks** problems solved
+* 🌱 Currently pursuing **Infosys Springboard Virtual Internship 7.0**
+* 🚀 Interested in building **real-world, scalable software solutions**
 
 ---
 
@@ -78,64 +100,81 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏥 Healthcare Management Platform for Clinical Operations
+## 🏥 Healthcare Management Platform for Clinical Operations
 
-A scalable healthcare platform built using **Spring Boot Microservices** for clinical operations.
+### Clinical Operations • Microservices • AI • Real-Time Streaming
 
-**Key Features:**
+A scalable healthcare platform built using **Spring Boot Microservices** with AI-powered clinical intelligence and real-time patient monitoring.
 
-* API Gateway and service discovery
-* Keycloak-based OAuth2 authentication
-* Role-based access control
-* Python ML model for patient risk prediction
-* Explainable AI (XAI) service for clinical insights
-* Apache Kafka for real-time patient vital streaming
-* HL7 FHIR-based healthcare interoperability
-* React dashboard for live vital analytics
-* Care-plan tracking
-* Automated PDF report generation
+### ✨ Key Features
+
+* 🏗️ **Spring Boot Microservices Architecture**
+* 🚪 **API Gateway & Service Discovery**
+* 🔐 **Keycloak + OAuth2 Authentication**
+* 👥 **Role-Based Access Control**
+* 🤖 **ML-based Patient Risk Prediction**
+* 🧠 **Explainable AI (XAI) for Clinical Insights**
+* ⚡ **Apache Kafka for Real-Time Vital Streaming**
+* 🏥 **HL7 FHIR Healthcare Interoperability**
+* 📊 **React Dashboard for Live Analytics**
+* 📋 **Care-Plan Tracking**
+* 📄 **Automated PDF Report Generation**
 
 **Tech Stack:**
 `Java` `Spring Boot` `Spring Cloud` `React` `Python` `Kafka` `MongoDB` `Keycloak`
 
-🔗 **[GitHub Repository](#)**
+<p>
+<a href="https://github.com/Saurabh6740/Healthcare-Management-Platform-For-Clinical-Operations">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-### 🌱 EcoTrack AI — Carbon Footprint Awareness Platform
+## 🌱 EcoTrack AI
 
-A responsive web application designed to help users calculate, track, and visualize their carbon footprint.
+### Carbon Footprint • Analytics • AI Recommendations
 
-**Key Features:**
+A responsive web application that helps users **calculate, track, and visualize their carbon footprint**.
 
-* Carbon footprint calculation
-* Interactive analytics dashboards
-* Carbon neutrality simulator
-* AI-powered sustainability recommendations
-* Data visualization using Chart.js
+### ✨ Features
+
+* 🌍 Carbon footprint calculation
+* 📊 Interactive analytics dashboard
+* ♻️ Carbon neutrality simulator
+* 🤖 AI-powered sustainability recommendations
+* 📈 Interactive Chart.js visualizations
 
 **Tech Stack:**
 `React.js` `Tailwind CSS` `JavaScript` `Chart.js`
 
-🔗 **[GitHub Repository](https://github.com/Saurabh6740/ecotrack-ai)**
-🌐 **[Live Demo](https://ecotrack-ai-dusky.vercel.app/)**
+<p>
+<a href="https://github.com/Saurabh6740/ecotrack-ai">
+<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://ecotrack-ai-dusky.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
 
 ---
 
-### 🏏 IPL Win Predictor
+## 🏏 IPL Win Predictor
 
-A machine learning classification project that predicts IPL match winners using historical match data.
+### Machine Learning • Classification • Sports Analytics
 
-**Key Features:**
+Machine learning model for predicting IPL match winners using historical match data.
 
-* Data preprocessing
-* Feature engineering
-* Exploratory data analysis
-* Logistic Regression / Random Forest
-* Confusion matrix and accuracy evaluation
-* Achieved approximately **82% prediction accuracy**
+### ✨ Highlights
+
+* 📊 Data preprocessing & EDA
+* ⚙️ Feature engineering
+* 📈 Logistic Regression
+* 🌲 Random Forest
+* 🧪 Confusion Matrix evaluation
+* 🎯 Approximately **82% prediction accuracy**
 
 **Tech Stack:**
 `Python` `Pandas` `Matplotlib` `Scikit-learn`
@@ -146,75 +185,120 @@ A machine learning classification project that predicts IPL match winners using 
 
 <p align="center">
   <a href="https://leetcode.com/u/oDcxJs6p08/">
-    <img src="https://leetcard.jacoblin.cool/oDcxJs6p08?theme=dark&ext=contest" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/oDcxJs6p08?theme=dark&ext=contest" alt="LeetCode Contest Stats" />
   </a>
 </p>
 
-* 🟡 **300+ LeetCode Problems Solved**
-* 🟢 **100+ GeeksforGeeks Problems Solved**
-* 🧠 Strong focus on **DSA, Algorithms, OOPs, and Problem Solving**
+### 📊 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/oDcxJs6p08/">
+    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 300+"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/SaurabhKumar/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems%20Solved-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks 100+"/>
+  </a>
+</p>
+
+### 🏅 LeetCode Badges
+
+<p align="center">
+  <img src="https://leetcode.com/static/images/badges/2022/lg/2022-annual-100.png" width="110" alt="100 Days Badge"/>
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="110" alt="50 Days Badge"/>
+  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="110" alt="100 Days Badge"/>
+</p>
+
+### 💡 Core DSA
+
+<p align="center">
+  <b>Arrays</b> •
+  <b>Strings</b> •
+  <b>Linked Lists</b> •
+  <b>Stacks & Queues</b> •
+  <b>Trees</b> •
+  <b>Graphs</b> •
+  <b>Dynamic Programming</b> •
+  <b>Binary Search</b> •
+  <b>Greedy</b> •
+  <b>Recursion & Backtracking</b>
+</p>
 
 ---
 
-## 🏅 Achievements
+# 💼 Virtual Internship
 
-* 🥇 **1st Prize** — Techno Cultural Fest, LNUniverse
-* 💻 **300+ DSA Problems** solved on LeetCode
-* 💻 **100+ Problems** solved on GeeksforGeeks
+## 🎓 Infosys Springboard Virtual Internship 7.0
 
----
+**Status: Ongoing**
 
-## 🎓 Internship
-
-### Infosys Springboard Virtual Internship 7.0
-
-Currently undergoing hands-on training in:
+Hands-on training in:
 
 `Spring Boot` `REST APIs` `Spring Data JPA` `Maven` `Backend Development`
 
 ---
 
-## 📜 Certifications
+# 🏆 Achievements
 
-* 🎖️ **Oracle University — DevOps Certification**
-* 🤖 **AICTE EduSkills — AI-ML Virtual Internship**
+🥇 **1st Prize — Techno Cultural Fest, LNUniverse**
+
+🧠 **300+ DSA Problems — LeetCode**
+
+💻 **100+ Problems — GeeksforGeeks**
+
+---
+
+# 📜 Certifications
+
+🎖️ **Oracle University — DevOps Certification**
+
+🤖 **AICTE EduSkills — AI-ML Virtual Internship**
+
+---
+
+# 📊 Problem Solving Mindset
+
+<div align="center">
+
+> **"Consistency beats intensity."**
+
+### 💻 Code → 🧠 Learn → 🚀 Build → 🔁 Improve
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:saurabhkumar963132@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
 <a href="https://github.com/Saurabh6740">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-<a href="https://www.linkedin.com/in/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<a href="https://www.linkedin.com/in/saurabh-banka-cse-aiml/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 <a href="https://www.kaggle.com/saurabhkumar11621">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48"/>
 </a>
 
 <a href="https://saurabhportfolio1911.netlify.app">
-<img src="https://skillicons.dev/icons?i=react" width="48"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-  <b>🚀 Building • Learning • Solving • Improving</b>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ From <a href="https://github.com/Saurabh6740">Saurabh Kumar</a>
-</p>
+### ⭐ Thanks for visiting my profile!
 
+**Building scalable systems. Solving challenging problems. Learning every day. 🚀**
 
+</div>
